@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+button {
+    padding: 1.9vw;
+}
+
+img {
+    position: relative;
+    width: 100%;
+}
+
+.container {
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    left: 38%;
+    font-size: 5vw;
+    opacity: 0.6;
+    font-weight: bold;
+}
